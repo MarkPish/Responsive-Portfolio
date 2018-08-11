@@ -215,3 +215,24 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+/* Troubleshoot @media query here
+body {
+  background-color: lightblue;
+}
+
+@media screen and (max-width: 980px) {
+  body {
+      background-color: lightgreen;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+      background-color: lavender;
+  }
+@media screen and (max-width: 640px) {
+  body {
+      background-color: pink;
+  }
+} */
